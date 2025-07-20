@@ -2,7 +2,8 @@
 
 This dataset is about the sales and geospatial factory to customer shipment data for a fictional US national candy distributor, inlcuding information around customer & factory locations, sales orders & goals, and product details.
 
-![Analysis Dashboard](https://github.com/Mikey3836/US-CANDY-DISTRIBUTION-ANALYSIS/blob/main/Screenshot%202025-07-16%20040209.png)
+### Analysis Dashboard
+![Analysis Dashboard](https://github.com/user-attachments/assets/3c555415-9543-4995-aad6-08a61fc4a079)
 
 # DATASET AND ANALYTIC TOOL USED
 
