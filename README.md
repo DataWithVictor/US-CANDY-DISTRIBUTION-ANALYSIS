@@ -18,7 +18,9 @@ The data set was gotten from maven analytics. PowerBi was used to analyse the da
 
 2. What about the least efficient?
 
-3. Which product lines have the best product margin
+3. Which product lines have the best product margin?
+
+4. Which product lines should be moved to a different factory to optimize shipping routes? 
 
 # RESULTS AND FINDING
 
