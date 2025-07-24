@@ -33,4 +33,4 @@ The data set was gotten from maven analytics. PowerBi was used to analyse the da
 4. Kazookles, Hair Toffee, SweeTARTS, Fizzy Lifting Drinks, Laffy Taffy, Nerd and Fun Dip should be to a different factory to optimize shipping routes.
    
 # RECOMMENDATIONS
- Move product lines currently handled by Sugar Shack and Other Factory to Secret Factory. Secret Factory has demonstrated higher efficiency and cost effectiveness with similar division or product types, especially those involving suger and others products. This shift is expected to reduce shipping costs, improve delivery, reliability, and increase overrall profit margins.
+Move product lines currently handled by Sugar Shack and The Other Factory to Secret Factory. Secret Factory has demonstrated higher efficiency and cost effectiveness with similar division or product types, especially those involving suger and others products. This shift is expected to reduce shipping costs, improve delivery, reliability, and increase overrall profit margins.
