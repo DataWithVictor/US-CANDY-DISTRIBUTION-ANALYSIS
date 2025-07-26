@@ -28,9 +28,11 @@ The data set was gotten from maven analytics. PowerBi was used to analyse the da
    
 2. Sugar Shack represents the least efficient route due to its costly shipping needs and low financial return, making it a not ideal focus focus for streamlined factory-to-customer logistics.
 
-3. Wonka Bar-Scrumdiddlyumptious has the highest product margin among all product lines, indicating it generates the most profit per unit of sales. This makes it a key product for maximizing profitability and strategic focus.
+3. Wonka Bar-Scrumdiddlyumptious has the highest product margin among all product lines, indicating it generates the most profit per unit of sales. This makes it a key product for maximizing profitability     and strategic focus.
 
 4. Kazookles, Hair Toffee, SweeTARTS, Fizzy Lifting Drinks, Laffy Taffy, Nerd and Fun Dip should be to a different factory to optimize shipping routes.
    
 # RECOMMENDATIONS
-Move product lines currently handled by Sugar Shack and The Other Factory to Secret Factory. Secret Factory has demonstrated higher efficiency and cost effectiveness with similar division or product types, especially those involving suger and others products. This shift is expected to reduce shipping costs, improve delivery, reliability, and increase overrall profit margins.
+- Move product lines currently handled by Sugar Shack and The Other Factory to Secret Factory. Secret Factory has demonstrated higher efficiency and cost effectiveness with similar division or product        types, especially those involving suger and others products. This shift is expected to reduce shipping costs, improve delivery, reliability, and increase overrall profit margins.
+- Sugar Shack and The Other Factory
+
