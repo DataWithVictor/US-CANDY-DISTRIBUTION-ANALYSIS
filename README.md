@@ -34,5 +34,5 @@ The data set was gotten from maven analytics. PowerBi was used to analyse the da
    
 # RECOMMENDATIONS
 - Move product lines currently handled by Sugar Shack and The Other Factory to Secret Factory. Secret Factory has demonstrated higher efficiency and cost effectiveness with similar division or product        types, especially those involving suger and others products. This shift is expected to reduce shipping costs, improve delivery, reliability, and increase overrall profit margins.
-- Sugar Shack and The Other Factory
-
+- Sugar Shack and The Other Factory should study and adopt the operational strategies of Secret Factory. Secret Factory consistently demonstrates higher efficiency, lower shipping costs, and better profit
+margins on similar product lines. By learning from Secret Factory's logistics and production model, both factories can significantly improve their performance and contribute more effectively to the overall supply chain efficiency.
